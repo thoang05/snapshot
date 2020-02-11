@@ -42,7 +42,12 @@
     width: 100%;
     text-align: center;
   }
+}
 
+@media screen and (Max-width:500px) {
+  .services-left img {
+    width: 65%;
+  }
 }
 
 .line {
